@@ -14,7 +14,19 @@ RecruitLens is an AI-powered web application that analyzes GitHub profiles and p
 
 ## 🚀 Live Demo
 
-👉 Coming Soon
+## 📸 Dashboard Preview
+
+### Dashboard - Overview
+
+![RecruitLens Dashboard](assets/dashboard1.png)
+
+---
+
+### Repository Analysis & Charts
+
+![RecruitLens Dashboard 2](assets/dashboard2.png)
+
+---
 
 ---
 
