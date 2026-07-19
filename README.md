@@ -2,6 +2,12 @@
 
 ### AI-Powered GitHub Developer Analytics Platform
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Live-red?logo=streamlit)
+![GitHub API](https://img.shields.io/badge/GitHub-API-black?logo=github)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project-Active-success)
+
 RecruitLens is an AI-powered web application that analyzes GitHub profiles and provides developer insights, skill detection, recruiter recommendations, repository quality analysis, and downloadable recruiter reports.
 
 ---
